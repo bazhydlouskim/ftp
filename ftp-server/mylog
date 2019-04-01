@@ -1,0 +1,9 @@
+2017-11-08T12:55:59.930157    USER cs472        Error getting remote socket information!
+2017-11-08T12:55:59.931668    User tried to log in : cs472        Error getting remote socket information!
+2017-11-08T12:56:03.112512    PASS hw3        Error getting remote socket information!
+2017-11-08T12:56:03.115562    SYST        Error getting remote socket information!
+2017-11-08T12:56:07.770906    PWD        Error getting remote socket information!
+2017-11-08T12:56:14.813673    PORT 127,0,0,1,164,105        Error getting remote socket information!
+2017-11-08T12:56:18.042712    CDUP        Error getting remote socket information!
+2017-11-08T12:56:21.764115    PWD        Error getting remote socket information!
+2017-11-08T12:56:42.711283    QUIT        Error getting remote socket information!
